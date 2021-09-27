@@ -10,6 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 1. What is `this` in JavaScript?
 
   Your answer: this is a object keyword 
+  
   Researched answer: In javascript this is a keyword refers to object it belongs to
 
 
